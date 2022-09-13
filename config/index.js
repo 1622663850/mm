@@ -41,15 +41,15 @@ export const config = {
       // 所在城市
       city: "宁德",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://http://xqzyh.top"
+      openUrl: "http://xqzyh.top"
     }, 
     {
       name: "好友1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      id: "ogDEC6Q_CGUBDldrCc-ngAFf9svs",
+      useTemplateId: "mctkpqVK7QWMH2LwlDQOdv-FrOKLXrpo2Q6eoIVGraE",
+      province: "福建",
+      city: "宁德",
+      openUrl: "http://xqzyh.top"
     }, 
     {
       name: "好友2",
@@ -108,7 +108,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+    {"type": "生日", "name": "你", "year": "1996", "date": "03-28"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
